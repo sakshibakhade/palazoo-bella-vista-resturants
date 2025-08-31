@@ -1,6 +1,6 @@
-# palazoo-bella-vista-resturants
+# palazzo-bella-vista-resturants
 
-The Palazoo Bella Vista Restaurant mini project is a simple yet interactive website designed using HTML, CSS, and JavaScript. The website is structured into four main sections:
+The Palazzo Bella Vista Restaurant mini project is a simple yet interactive website designed using HTML, CSS, and JavaScript. The website is structured into four main sections:
 
 Home Section: A welcoming page that introduces visitors to the restaurant.
 
