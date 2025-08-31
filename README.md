@@ -1,4 +1,4 @@
-# palazzo-bella-vista-resturants
+# palazzo-bella-vista-resturant
 
 The Palazzo Bella Vista Restaurant mini project is a simple yet interactive website designed using HTML, CSS, and JavaScript. The website is structured into four main sections:
 
